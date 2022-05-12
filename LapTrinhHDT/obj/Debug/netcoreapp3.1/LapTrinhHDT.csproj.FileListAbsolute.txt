@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\bin\Debug\netcoreapp3.1\LapTrinhHDT.exe
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\bin\Debug\netcoreapp3.1\LapTrinhHDT.deps.json
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\bin\Debug\netcoreapp3.1\LapTrinhHDT.runtimeconfig.json
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\bin\Debug\netcoreapp3.1\LapTrinhHDT.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\bin\Debug\netcoreapp3.1\LapTrinhHDT.dll
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\bin\Debug\netcoreapp3.1\LapTrinhHDT.pdb
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\obj\Debug\netcoreapp3.1\LapTrinhHDT.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\obj\Debug\netcoreapp3.1\LapTrinhHDT.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\obj\Debug\netcoreapp3.1\LapTrinhHDT.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\obj\Debug\netcoreapp3.1\LapTrinhHDT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\obj\Debug\netcoreapp3.1\LapTrinhHDT.dll
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\obj\Debug\netcoreapp3.1\LapTrinhHDT.pdb
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\obj\Debug\netcoreapp3.1\LapTrinhHDT.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\LapTrinhHDT\LapTrinhHDT\obj\Debug\netcoreapp3.1\LapTrinhHDT.GeneratedMSBuildEditorConfig.editorconfig

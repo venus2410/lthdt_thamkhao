@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+FPU2wgYJ4JkUxTCYKShxlyCCDtF/SquHCgKqE/jvvVXXBmBJqsGEz1QKSMHdhhQQqAD1cqJBRpcNMM831TAYA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\source\\repos\\LapTrinhHDT\\LTHDT_web\\LTHDT_web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
